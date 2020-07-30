@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  margin-top: 10vh;
+  padding:.5vw;
+}
